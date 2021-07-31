@@ -3,3 +3,12 @@
 bin
 *.sw*
 *~
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+wu-mapgen/bin
+wu-mapgen/build
+wu-mapgen/lib
